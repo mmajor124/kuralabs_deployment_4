@@ -6,7 +6,7 @@ provider "aws" {
 
 #create vpc
 module "myvpc" {
-  source                            = "../module_dep4/vpcmodule"
+  source                            = "./module_dep4/vpcmodule"
   region                            = var.region
   project_name                      = var.project_name
   vpc_cidr                          = var.vpc_cidr
