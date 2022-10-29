@@ -4,8 +4,6 @@ Mike Major
 
 Deployment 4
 
-Deployment 4
-
 Install and Configure Jenkins Server on AWS EC2
 
 - Use Search to find "EC2" and then click on EC2
